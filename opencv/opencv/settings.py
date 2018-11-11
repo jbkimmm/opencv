@@ -25,7 +25,7 @@ SECRET_KEY = '4mi0+-=nssepv_mkv*jrxa#st3hnzmpku*hl3ji_6*z6_!&n3)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jbkimmm.pythonanywhere.com','*.*.*.*']
 
 
 # Application definition
